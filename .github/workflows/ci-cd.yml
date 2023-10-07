@@ -31,6 +31,6 @@ jobs:
           java-version: '11' # Choose the appropriate Java version from your pom.xml
           distribution: 'adopt' # Sp
           # Navigate to your project directory (assuming your pom.xml is there)
-          cd /home/runner/work/webapp_ecommerce/webapp_ecommerce
+          cd /home/runner/work/java-webapp/java-webapp
           # Build and test your Java application using Maven
           mvn clean install
