@@ -55,7 +55,7 @@
 
 			</div>
 		</div>
-		<!-- //show products -->
+		<!-- //display products -->
 		<div class="col-md-10">
 
 			<!-- row -->
