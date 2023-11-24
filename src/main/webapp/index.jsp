@@ -96,7 +96,7 @@
 	      	  	
 	      	  	if(list.size()==0)
 	      	  	{
-	      	  		out.println("<h3>No items in this category</h3>");
+	      	  		out.println("<h3>No items in this categorys</h3>");
 	      	  	}
 	      	  	
 	      	  	
