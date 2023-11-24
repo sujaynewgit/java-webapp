@@ -46,7 +46,7 @@
         <!-- Build Configuration: Specifies how your project should be built -->
         <plugins>
             <plugin>
-                <!-- Maven Compiler Plugin: Configures the Java compiler settings -->
+                <!-- Mavens Compiler Plugin: Configures the Java compiler settings -->
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
